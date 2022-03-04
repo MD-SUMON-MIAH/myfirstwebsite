@@ -1,0 +1,36 @@
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+#FirstLine {
+    color: green;
+}
+
+.Nam {
+    font-style: italic, bold;
+}
+
+.d {
+    background-color: salmon;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+}
+
+h1:hover {
+    color: green;
+    font-size: 60px;
+    background-color: cadetblue;
+}
+
+input:focus {
+    font-weight: 700;
+    font-size: 20px;
+    color: green;
+}
+
+.ss:hover {
+    background-color: beige;
+}
